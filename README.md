@@ -43,19 +43,24 @@ cd bounce-ball
 ```
 
  ## Create a virtual environment
----
+``` bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate    
+```
+
+On Windows: venv\Scripts\activate
+
 ---
 
 
-## nstall dependencies
-
+## Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 ## Run the game
-
+```bash
 python main.py
+```
 
 
 ## 📸 Screenshots
