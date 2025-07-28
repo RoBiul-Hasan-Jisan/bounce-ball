@@ -67,7 +67,8 @@ python main.py
 ![alt text](image-2.png)
 ##  Author
 
-Developed by Robiul Hasan Jisan 
+<p>Developed by <a href="https://portfolio-nine-gilt-93.vercel.app/" target="_blank" rel="noopener noreferrer">Robiul Hasan Jisan</a></p>
+
 
 ## Contribute
 
